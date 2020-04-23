@@ -1,0 +1,15 @@
+#main1 {
+  background-image: url("https://klike.net/uploads/posts/2019-05/1559024484_13.jpg");
+  /* width: 100% */
+   /* height: 100%; */
+ background-size: cover;
+ background-attachment: fixed;
+}
+
+@font-face {
+ font-family: Pompadur; /* Гарнитура шрифта */
+ src: url(fonts/pompadur.ttf); /* Путь к файлу со шрифтом */
+}
+#hel, #black, #club, #hel2, #no, #pravila {
+ font-family: Pompadur, 'Comic Sans MS', cursive;
+}
