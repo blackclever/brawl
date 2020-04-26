@@ -1,9 +1,9 @@
 body {
   background-image: url("https://klike.net/uploads/posts/2019-05/1559024484_13.jpg");
- background-size: cover;
- background-attachment: fixed;
- width:100%;
-  overflow-x:hidden;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  overflow-x: hidden;
 }
 
 @font-face {
