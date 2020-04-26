@@ -1,21 +1,22 @@
 body {
   background-image: url("https://klike.net/uploads/posts/2019-05/1559024484_13.jpg");
-  /* width: 100% */
-   /* height: 100%; */
  background-size: cover;
  background-attachment: fixed;
+ width:100%;
+  overflow-x:hidden;
 }
 
 @font-face {
  font-family: Pompadur; /* Гарнитура шрифта */
  src: url(fonts/pompadur.ttf); /* Путь к файлу со шрифтом */
 }
+
 #hel, #black, #club, #hel2, #no, #pravila {
  font-family: Pompadur, 'Comic Sans MS', cursive;
 }
 
 footer {
-  background-color: #4287f5 !important;
+  background-color: #4287f5;
 }
 
 nav > ul > li > a {
