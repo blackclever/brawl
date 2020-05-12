@@ -32,3 +32,7 @@ nav > ul > li > a:hover {
     background-color: #4287f5;
     color: black;
 }
+
+.row {
+   margin-right: 0px !important
+}
