@@ -9,6 +9,7 @@ body {
  font-family: Pompadur; /* Гарнитура шрифта */
  src: url(fonts/pompadur.ttf); /* Путь к файлу со шрифтом */
 }
+
 #hel, #black, #club, #hel2, #no, #pravila {
  font-family: Pompadur, 'Comic Sans MS', cursive;
 }
